@@ -9,7 +9,6 @@ class mainscreen2 extends StatefulWidget {
 }
 
 
-
 class _mainscreen2State extends State<mainscreen2> {
   final dbhelp = dbhelper.instance;
 
